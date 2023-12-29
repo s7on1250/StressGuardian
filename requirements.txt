@@ -1,0 +1,6 @@
+opencv-python~=4.8.1.78
+numpy~=1.24.4
+scipy~=1.10.0
+pandas~=1.4.3
+xgboost~=2.0.3
+firebase_admin~=6.3.0
